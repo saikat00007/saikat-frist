@@ -1,0 +1,25 @@
+.header_main {
+    background-color: black;
+
+
+}
+
+.header_main .logo_wrapper {
+    color: white;
+}
+
+.header_main .nav_wrapper a {
+    color: white;
+}
+
+.main_wrapper {
+    background-color: aliceblue;
+    height: auto;
+}
+
+.left_side {
+    padding-right: 35px;
+}
+.blogs_item{
+
+}
